@@ -1,0 +1,12 @@
+{
+  "status"  : 1,
+  "message" : "Ok",
+  "data"    : [
+    { "id" : "", "name" : "Selecciona uno o varios Modelos", "disabled": true, "selected" : true },
+    { "id" : "1", "name" : "A1" },
+    { "id" : "2", "name" : "A2" },
+    { "id" : "3", "name" : "A3" },
+    { "id" : "4", "name" : "A3 Sportback" },
+    { "id" : "5", "name" : "A4" }
+  ]
+}

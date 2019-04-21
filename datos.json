@@ -1,0 +1,17 @@
+{
+  "status"  : 1,
+  "message" : "Ok",
+  "hasNext" : false,
+  "hasPrev" : false,
+  "data"    : [
+    { "nombre" : "Paco", "apellidos" : "Gonzalez", "sexo" : 0, "ciudad" : "Madrid", "edad" : 35, "socio" : true }
+  ],
+  "filtros" : [
+    {
+      "edad__from" : 10,
+      "edad__to"   : 45,
+      "sexo"      : 0,
+      "socio"     : false
+    }
+  ]
+}

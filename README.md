@@ -1,2 +1,6 @@
 # js-instant
-Project to automatically update a table using states updated py input components. Dependant of Materializecss and Jquery
+Project to automatically update a table using states updated by input components.
+
+Dependant of:
+  - Materializecss
+  - Jquery
